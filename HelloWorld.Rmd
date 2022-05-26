@@ -1,0 +1,16 @@
+---
+title: "My First R Markdown"
+author: "Sreevatsan Raghavan"
+date: "26/05/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is Markdown File
+
+This is a Markdown File.
+
+
